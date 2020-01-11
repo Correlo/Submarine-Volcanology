@@ -1,7 +1,6 @@
 # Author Martín Manuel Gómez Míguez
 # mail mamagomi@gmail.com
-
-#-+- coding: utf -+-
+#GitHub: @Correlo
 
 #Import functions that can be needed
 from SubVolcano_Lib import *
