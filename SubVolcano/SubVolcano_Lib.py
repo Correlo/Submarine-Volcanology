@@ -1,7 +1,6 @@
 # Author Martín Manuel Gómez Míguez
 # mail mamagomi@gmail.com
-
-#-+- coding: utf -+-
+#GitHub: @Correlo
 
 #Packages from Python
 import numpy as np
