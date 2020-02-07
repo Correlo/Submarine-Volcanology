@@ -7,6 +7,6 @@ Author: Martín Manuel Gómez Míguez   mamagomi@gmail.com     @Correlo
 
 Supervisor:  Theodoros Mertzimekis   tmertzi@phys.uoa.gr
 
-Colaborator: Ana Dura                andura@geol.uoa.gr
+Colaborator: Anne Athenea Dura                andura@geol.uoa.gr
 
 Last update: 11/01/2020
